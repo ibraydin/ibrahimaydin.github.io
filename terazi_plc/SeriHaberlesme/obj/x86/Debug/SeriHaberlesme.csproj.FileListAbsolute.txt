@@ -1,0 +1,179 @@
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\coskun\Desktop\SeriHaberlesmeOrnek\SeriHaberlesme\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+F:\ \SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+F:\ \SerialPortCSharp-master\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+F:\ \SerialPortCSharp-master\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+F:\ \SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+F:\ \SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+F:\ \SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bilal\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\SerialPortCSharp-master\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\SerialPortCSharp-master\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\bilal\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\bilal\Desktop\SerialPortCSharp-master\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.GenerateResource.Cache
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.GenerateResource.Cache
+C:\Users\bilal\Desktop\SerialPortCSharp-master - Kopya\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csprojResolveAssemblyReference.cache
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csprojResolveAssemblyReference.cache
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.GenerateResource.Cache
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\bin\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe.config
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\bin\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csprojResolveAssemblyReference.cache
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\bilal\Desktop\ATP-11_A PROJE\TERAZİ C#\terazi veri  okuma - Kopya (4)\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe.config
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\bin\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hp\Desktop\C#_KODLARI\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe.config
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.dll
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.dll
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.xml
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AForge.xml
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\AxInterop.ActProgTypeLib.dll
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe.config
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ibrahim\yedek\son yedek1\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe.config
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\WindowsFormsApplication2.exe
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.dll
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.dll
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.dll
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\WindowsFormsApplication2.pdb
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.pdb
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.xml
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.pdb
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.xml
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.pdb
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AForge.xml
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\Interop.ActProgTypeLib.dll
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\bin\Debug\AxInterop.ActProgTypeLib.dll
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Guvenli\ATP-11_A PROJE\Yeni klasör\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe.config
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.pdb
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\WindowsFormsApplication2.exe
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.dll
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.dll
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.dll
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\WindowsFormsApplication2.pdb
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.pdb
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.DirectShow.xml
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.pdb
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.Video.xml
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.pdb
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AForge.xml
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\Interop.ActProgTypeLib.dll
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\bin\Debug\AxInterop.ActProgTypeLib.dll
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Form1.resources
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.Properties.Resources.resources
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ibrahim\yedek\son yedek1\son yedek 2\terazi_plc\SeriHaberlesme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\SCADA.exe
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\terazi_plc\SeriHaberlesme\bin\Debug\SCADA.pdb
+D:\bilal\terazi_plc\SeriHaberlesme\bin\Debug\SeriHaberlesme.exe.config
+D:\bilal\terazi_plc\SeriHaberlesme\obj\x86\Debug\Interop.ActProgTypeLib.dll
+D:\bilal\terazi_plc\SeriHaberlesme\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+D:\bilal\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.csproj.ResolveComReference.cache
+D:\bilal\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.exe
+D:\bilal\terazi_plc\SeriHaberlesme\obj\x86\Debug\SeriHaberlesme.pdb
