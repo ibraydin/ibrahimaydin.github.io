@@ -1,0 +1,26 @@
+isim,cinsiyet,y1,y2,p1,p2,ortalama,devamsızlık,aile,proje,başarılı,notu
+ibrahim,erkek,70,80,80,90,80,hayır,birlikte,yaptı,evet,4
+ali,erkek,35,40,50,60,47,evet,ayrı,yapmadı,hayır,1
+murat,erkek,60,70,80,90,75,evet,birlikte,yaptı,evet,4
+telat,erkek,90,100,100,100,97,hayır,birlikte,yaptı,evet,5
+osman,erkek,25,30,50,50,39,evet,ayrı,yapmadı,hayır,1
+hatice,kız,75,80,90,95,85,hayır,ayrı,yaptı,evet,5
+veli,erkek,70,75,85,90,80,hayır,ayrı,yaptı,evet,4
+zeki,erkek,75,70,80,85,78,hayır,ayrı,yapmadı,evet,4
+bekir,erkek,50,60,70,75,64,evet,birlikte,yapmadı,evet,3
+ömer,erkek,40,40,50,60,48,hayır,birlikte,yaptı,hayır,1
+yasemin,kız,25,30,50,65,43,evet,birlikte,yapmadı,hayır,1
+hacer,kız,60,80,90,100,83,hayır,birlikte,yapmadı,evet,4
+pelin,kız,50,40,50,60,50,evet,ayrı,yapmadı,evet,2
+özge,kız,15,30,50,55,38,evet,ayrı,yapmadı,hayır,1
+ışıl,kız,100,100,100,100,100,hayır,birlikte,yaptı,evet,5
+yeliz,kız,50,60,55,60,57,hayır,ayrı,yaptı,evet,3
+faik,erkek,50,40,50,60,50,hayır,ayrı,yaptı,evet,2
+ahmet,erkek,90,90,100,100,95,hayır,birlikte,yaptı,evet,5
+elif,kız,65,50,70,75,65,evet,birlikte,yapmadı,evet,3
+jale,kız,55,60,70,85,68,hayır,ayrı,yaptı,evet,3
+yeşim,kız,75,70,70,75,73,hayır,ayrı,yapmadı,evet,4
+tarık,erkek,80,85,85,90,85,hayır,birlikte,yaptı,evet,5
+baran,erkek,30,20,50,70,43,evet,ayrı,yaptı,hayır,1
+fatih,erkek,20,30,50,50,38,evet,birlikte,yapmadı,hayır,1
+furkan,erkek,55,55,60,60,58,hayır,birlikte,yaptı,evet,3muhammet,erkek,40,60,50,50,50,hayır,birlikte,yaptı,evet,2muzaffer,erkek,70,85,100,100,89,hayır,birlikte,yaptı,evet,5esma,kız,15,20,50,50,34,evet,ayrı,yapmadı,hayır,1doğan,erkek,70,85,90,100,87,hayır,birlikte,yaptı,evet,5merve,kız,55,50,60,65,58,evet,ayrı,yaptı,evet,3
